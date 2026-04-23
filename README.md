@@ -11,3 +11,8 @@ Building modern, user-focused web applications and exploring Cybersecurity & Mai
 📫 **Reach me at:** [lainef.dev@gmail.com](mailto:lainef.dev@gmail.com)  
 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/laineferreira)  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lainefdev/snake/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lainefdev/snake/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/lainefdev/snake/output/dist/github-contribution-grid-snake.svg" />
+</picture>
