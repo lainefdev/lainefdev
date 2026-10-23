@@ -1,5 +1,5 @@
 <!-- Header -->
-   <img width="100%" src="./banner.svg" />type=waving&color=0:6D28D9,100:C084FC&height=200&section=header&text=La%C3%ADne%20Ferreira&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Front-end%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20CS%20Student&descAlignY=58&descSize=18" />
+   <img width="100%" src="./banner.svg" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+La%C3%ADne+%F0%9F%91%8B;From+banking+ops+to+code+%F0%9F%92%9C;Building+AI+agents+that+save+real+hours+%F0%9F%A4%96;React+%C2%B7+TypeScript+%C2%B7+Supabase;Future+Security+Engineer+%F0%9F%94%90" alt="Typing SVG" /></a>
