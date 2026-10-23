@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V160C1100 200 1000 210 880 185C760 160 660 120 520 140C380 160 300 205 180 200C100 196 40 180 0 165Z"/>
+  <path fill="#ffffff" fill-opacity="0.12" d="M0 120C120 150 240 165 380 140C520 115 640 85 780 110C920 135 1060 170 1200 130V0H0Z"/>
+  <text x="600" y="92" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Laíne Ferreira</text>
+  <text x="600" y="132" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#F5F3FF" letter-spacing="1">Front-end · AI &amp; Automation · CS Student</text>
+</svg>
