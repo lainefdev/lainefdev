@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/laineferreira"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lainef.dev@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/SEU-USUARIO-CREDLY"><img src="https://img.shields.io/badge/Credly-8B5CF6?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/laine-ferreira"><img src="https://img.shields.io/badge/Credly-8B5CF6?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
 ---
@@ -92,7 +92,7 @@ NOW ─── Writing code every day, on my way to full-time software developmen
 
 IBM — Python for Data Science · AI Fundamentals · Enterprise Design Thinking Practitioner · Agile Explorer · Cloud Essentials
 <br>
-<sub>Verifiable on <a href="https://www.credly.com/users/SEU-USUARIO-CREDLY">Credly</a></sub>
+<sub>Verifiable on <a href="https://www.credly.com/users/laine-ferreira">Credly</a></sub>
 
 ---
 
